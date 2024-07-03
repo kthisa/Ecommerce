@@ -1,0 +1,373 @@
+[
+    {
+        "name":"Acer Aspire 3",
+        "price":"80,000",
+        "del":"72,000",
+        "description":"Acer Aspire 3 Intel Core i3-1215U Processor Laptop (Windows 11 Home/ 8 GB/ 256 GB SSD) A324-51 with 35.56 cm (14) Full HD IPS Display, Steel Gray, 1.45 KG",
+        "rating":4.3,
+        "images":[
+            {
+                "image":"/products/Acer.png"
+            }
+        ],
+        "catagory":"Laptop",
+        "seller":"ACER",
+        "stock":15
+    },
+    {
+        "name":"AirPods Pro",
+        "price":"1,400",
+        "del":"3,500",
+        "description":"(2nd generation) with MagSafe Charging Case (USB‑C)",
+        "rating":4.1,
+        "images":[
+            {
+                "image":"/products/airbuds.png"
+            }
+          
+        ],
+        "catagory":"AirPods",
+        "seller":"SAMSUNG",
+        "stock":9
+    },
+    {
+        "name":"ASUS ProArt",
+        "price":"50,000",
+        "del":"55,000",
+        "description":"ASUS Proart Display PA278QV WQHD, 27 Inch (68.58 Cm) 2560 X 1440 Pixels Monitor, 100% Srgb/Rec. 709, E < 2, IPS, Displayport Hdmi Dvi-D Mini Dp, Calman Verified, Eye Care, Anti-Glare (Black)",
+        "rating":4.1,
+        "images":[
+            {
+                "image":"/products/Asus.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"Laptop",
+        "seller":"ASUS",
+        "stock":12
+    },
+    {
+        "name":"KeyBoard Mouse Combo",
+        "price":"3,500",
+        "del":"4,700",
+        "description":"Ant Value FKBRI05 Multimedia Wireless Keyboard & Mouse Combo, Compact Light-Weight For PCs, Laptops & Smart TV (Blue)",
+        "rating":5.3,
+        "images":[
+            {
+                "image":"/products/combo.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"MOUSE",
+        "seller":"INDEX",
+        "stock":40
+    },
+    {
+        "name":"OnePlus Wired",
+        "price":"1,000",
+        "del":"1,200",
+        "description":"Kreo Hydra Type C In-Ear Wired Earphones with Mic, Earphone Wire, Tangle-free cable, Wired Gaming Headset ",
+        "rating":3.3,
+        "images":[
+            {
+                "image":"/products/Earphone.png"
+            }
+        ],
+        "catagory":"Earphone",
+        "seller":"ONEPLUS",
+        "stock":8
+    },
+    {
+        "name":"OPPO V10",
+        "price":"35,000",
+        "del":"38,500",
+        "description":"Ant Value FKBRI05 Multimedia Wireless Keyboard & Mouse Combo, Compact Light-Weight For PCs, Laptops & Smart TV (Blue)",
+        "rating":5.3,
+        "images":[
+            {
+                "image":"/products/file.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"MOUSE",
+        "seller":"INDEX",
+        "stock":40
+    },
+    {
+        "name":"Srhythm NC25",
+        "price":"4,000",
+        "del":"4,350",
+        "description":"Srhythm NC25 Wireless Headphones Bluetooth 5.3,Lightweight Noise Cancelling Headset Over-Ear with Low Latency,Game Mode",
+        "rating":4.4,
+        "images":[
+            {
+                "image":"/products/headset.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"headset",
+        "seller":"BOAT",
+        "stock":34
+    },
+    {
+        "name":"Iphone 12",
+        "price":"57,700",
+        "del":"60,000",
+        "description":"64 GB ROM 15.49 cm (6.1 inch) Super Retina XDR Display",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/iphone12.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"PHONE",
+        "seller":"APPLE",
+        "stock":34
+    },
+    {
+        "name":"Iphone 11",
+        "price":"47,700",
+        "del":"50,000",
+        "description":"64 GB ROM 15.49 cm (6 inch) Super Retina XDR Display",
+        "rating":4.3,
+        "images":[
+            {
+                "image":"/products/iphone.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"PHONE",
+        "seller":"APPLE",
+        "stock":34
+    },
+    {
+        "name":"KEY & MOUSE",
+        "price":"1,700",
+        "del":"2,000",
+        "description":"Ant Value FKBRI05 Multimedia Wireless Keyboard & Mouse Combo, Compact Light-Weight For PCs, Laptops ",
+        "rating":4.4,
+        "images":[
+            {
+                "image":"/products/keymou.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"KEYBOARD",
+        "seller":"ZEBRANICS",
+        "stock":34
+    },
+    {
+        "name":"MAC BOOK PRO",
+        "price":"1,11,007",
+        "del":"1,15,000",
+        "description":"Ant Value FKBRI05 Multimedia Wireless Keyboard & Mouse Combo, Compact Light-Weight For PCs, Laptops",
+        "rating":4.4,
+        "images":[
+            {
+                "image":"/products/macbook.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"LAPTOP",
+        "seller":"APPLE",
+        "stock":34
+    },
+    {
+        "name":"HP MOUSE",
+        "price":"1,100",
+        "del":"1,400",
+        "description":"HP 150 Wired Mouse- Elegant Ergonomic Design, 1600 DPI Optical Tracking, USB Plug & Play / 3 Years Warranty (240J6AA), Black",
+        "rating":4.4,
+        "images":[
+            {
+                "image":"/products/mouse.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"MOUSE",
+        "seller":"HP",
+        "stock":40
+    },
+    {
+        "name":"DELL MOUSE",
+        "price":"1,000",
+        "del":"1,150",
+        "description":"DELL Wired Mouse- Elegant Ergonomic Design, 1600 DPI Optical Tracking, USB Plug & Play / 3 Years Warranty (240J6AA), Black",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/mouses.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"MOUSE",
+        "seller":"DELL",
+        "stock":40
+    },
+    {
+        "name":"OnePlus 12",
+        "price":"47,000",
+        "del":"48,530",
+        "description":"(Onyx Black, 8GB RAM, 256GB Storage)",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/phones.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"PHONE",
+        "seller":"ONEPLUS",
+        "stock":40
+    },
+    {
+        "name":"ROG 501MD",
+        "price":"1,00,000",
+        "del":"1,05,000",
+        "description":"ASUS S501MD, 6 core, Intel Core i5-12400, Tower PC (8GB/512GB SSD/Integrated Graphics/Windows 11/with Keyboard & Mouse/Black/5.9kg), S501MD-512400016W",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/rog.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"PC",
+        "seller":"ASUS ROG",
+        "stock":40
+    },
+    {
+        "name":"ASUS ROG G15",
+        "price":"10,005",
+        "del":"10,500",
+        "description":"ASUS ROG Strix G15 AMD Ryzen 7 Octa Core AMD R7-4800H - (8 GB/512 GB SSD/Windows 11",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/rogg.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"LAPTOP",
+        "seller":"ASUS ",
+        "stock":40
+    },
+    {
+        "name":"Samsung Galaxy Book3",
+        "price":"74,000",
+        "del":"78,000",
+        "description":"Samsung Galaxy Book3 Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) Galaxy Book3 Thin and Light Laptop (15.6 Inch, Silver, 1.58 Kg, with MS Office)",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/Samsung.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"LAPTOP",
+        "seller":"SAMSUNG",
+        "stock":40
+    },
+    {
+        "name":"Samsung Ultra S22",
+        "price":"1,39,000",
+        "del":"1,60,000",
+        "description":"Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Gray, 12GB, 512GB Storage)",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/ultraa.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"LAPTOP",
+        "seller":"SAMSUNG",
+        "stock":32
+    },
+    {
+        "name":"JBL Wired HeadPhone",
+        "price":"1,390",
+        "del":"1,500",
+        "description":"JBL Wired HeadPhone 2 Neo With HD Mic Wired Headset  (Black, In the Ear)",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/wired.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"Wired HeadPhones",
+        "seller":"ASUS ROG",
+        "stock":40
+    },
+    {
+        "name":"Realme Wired HeadPhone",
+        "price":"1,590",
+        "del":"1,800",
+        "description":"Realme Wired HeadPhone 2 Neo With HD Mic Wired Headset  (Black, In the Ear)",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/wiree.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"Wired HeadPhones",
+        "seller":"REALME",
+        "stock":23
+    },
+    {
+        "name":"ASUS Zenbook",
+        "price":"1,39,000",
+        "del":"1,50,000",
+        "description":"The innovative dual-screen design makes it the best laptop for tech enthusiasts who need the best productivity solution and effortless multitasking.",
+        "rating":4.2,
+        "images":[
+            {
+                "image":"/products/zenbook.png"
+            },
+            {
+                "image":" "
+            }
+        ],
+        "catagory":"PC",
+        "seller":"ASUS ROG",
+        "stock":40
+    }
+    
+]
