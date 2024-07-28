@@ -21,6 +21,10 @@ const Header = ({ card }) => {
           </div></Link>
       </nav>
 
+      <div>
+        <Link to={'/signup'} ><img className="signn" src="\products\user.png" alt="" /></Link>
+      </div>
+
    
 
     </div>

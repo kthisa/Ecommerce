@@ -109,7 +109,7 @@ const Cart = ({ card, setCard }) => {
                         <div id="order_summary">
                             <h4>Order Summary</h4>
                             <p>Subtotal:  <span className="order-summary-values">{card.reduce((acc, item) => (acc + item.qty),0)} (Units)</span></p>
-                            <p>Est. total: <span className="order-summary-values">₹{card.reduce((acc,item)=>(acc+item.product.price * item.qty),0)}</span></p>
+                            <p>Total: <span className="order-summary-values">${Number(card.reduce((acc,item)=> (acc + item.product.price * item.qty), 0)).toFixed(2)}</span></p>
                             <button id="checkout_btn" className="btn " onClick={placeOrder}>Place Order</button>
                         </div>
                 </div>

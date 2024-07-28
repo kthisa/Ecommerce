@@ -10,6 +10,8 @@ import {ToastContainer} from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css';
 import Cart from './Components/Cart'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Signup from './Components/Sign'
+import Login from './Components/Login'
 
 
 function App() {
@@ -17,6 +19,7 @@ function App() {
  
   return (
     <>
+
     <Router>
       <div>
         <ToastContainer theme='dark' position='top-center' />
@@ -27,9 +30,12 @@ function App() {
         <Route path='/search' element={ <Home/>}/>
         <Route path='/product/:id' element={<Detail card={card} setCard={setCard} />}/>
         <Route path='/cart' element={<Cart card={card} setCard={setCard} />}/>
+        <Route path='/signup' element={<Signup />}></Route>
+        <Route path='/login' element={<Login />}></Route>
       </Routes>
       </div>
     </Router>
+
       <Footer/>
     </>
   )

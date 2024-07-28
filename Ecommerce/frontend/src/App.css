@@ -248,8 +248,12 @@ h3 .prname{
 }
 
 nav {
-  background-color: #2148a2;
-  padding: 1rem 1rem;
+  background-color: #0943b6;
+border-radius: 20px;
+  position: relative;
+  width: 95%;
+  left: 40px;
+  
 }
 
 #search_btn {
@@ -1012,4 +1016,150 @@ p{
 .fa{
   position: relative;
   left: 37%;
+}
+
+.sign {
+  position: absolute;
+  left:1350px;
+  top: 50px;
+  color: white;
+  text-decoration: none;
+}
+.signn{
+  height: 40px;
+  width: 40px;
+  position: relative;
+  left:1350px;
+  bottom: 85px;
+
+}
+.signup-form {
+  max-width: 400px;
+  margin: auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+ margin-top: 10px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1),
+               inset 0 0 40px rgba(253, 252, 252, 0.1)  ;
+  background-color: transparent;
+  position: relative;
+  top: 50px;
+}
+.signup-form h2 {
+  margin-bottom: 20px;
+  color:white;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+}
+.signup-form input[type="text"],
+.signup-form input[type="email"],
+.signup-form input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.signup-form button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+}
+.signup-form button:hover {
+  background-color: #1f4e21;
+}
+.already{
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  position: relative;
+  left: 40%;
+  top: 70px;
+}
+.login{
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.4s, color 0.4s;
+  text-decoration: none;
+  position: relative;
+  left: 45%;
+  top: 80px;
+ 
+}
+.login:hover {
+  background-color: #0c440e;
+}
+.login-form {
+  max-width: 400px;
+  margin: auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  margin-top: 90px;
+ padding-bottom: 190px;
+ background-color: transparent;
+  position: relative;
+}
+.login-form h2 {
+  margin-bottom: 20px;
+  color: white;
+  text-align: center;
+}
+.login-form input[type="email"],
+.login-form input[type="password"] {
+  position: relative;
+  top: 30px;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+.login-form button {
+  top: 40px;
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  font-size: 16px;
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.4s, color 0.4s;
+}
+.login-form button:before {
+  content: '';
+  position: absolute;
+  left: -100%;
+  top: 0;
+  width: 300%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.2);
+  transition: left 0.7s;
+}
+.login-form button:hover {
+  background-color: #45a049;
+}
+.login-form button:hover:before {
+  left: 100%;
 }
